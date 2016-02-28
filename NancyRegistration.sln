@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyRegistration", "NancyRegistration\NancyRegistration.csproj", "{F6D7B589-D41E-4980-9BBF-6D307DF183F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyModules", "NancyModules\NancyModules.csproj", "{E4480820-3D4C-4A73-B6D1-D43F8B237799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyDependency", "NancyDependency\NancyDependency.csproj", "{A95A323D-EEF1-4C2D-B338-E150A1C2CE37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyIIS", "NancyIIS\NancyIIS.csproj", "{19197634-CFDB-464D-AAFC-C9B45AE9ED64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6D7B589-D41E-4980-9BBF-6D307DF183F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D7B589-D41E-4980-9BBF-6D307DF183F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D7B589-D41E-4980-9BBF-6D307DF183F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D7B589-D41E-4980-9BBF-6D307DF183F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4480820-3D4C-4A73-B6D1-D43F8B237799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4480820-3D4C-4A73-B6D1-D43F8B237799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4480820-3D4C-4A73-B6D1-D43F8B237799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4480820-3D4C-4A73-B6D1-D43F8B237799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A95A323D-EEF1-4C2D-B338-E150A1C2CE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A95A323D-EEF1-4C2D-B338-E150A1C2CE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A95A323D-EEF1-4C2D-B338-E150A1C2CE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A95A323D-EEF1-4C2D-B338-E150A1C2CE37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19197634-CFDB-464D-AAFC-C9B45AE9ED64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19197634-CFDB-464D-AAFC-C9B45AE9ED64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19197634-CFDB-464D-AAFC-C9B45AE9ED64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19197634-CFDB-464D-AAFC-C9B45AE9ED64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
